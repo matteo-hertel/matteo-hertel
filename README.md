@@ -1,6 +1,1 @@
-.___  ___.      ___   .___________.___________. _______   ______   
-|   \/   |     /   \  |           |           ||   ____| /  __  \  
-|  \  /  |    /  ^  \ `---|  |----`---|  |----`|  |__   |  |  |  | 
-|  |\/|  |   /  /_\  \    |  |        |  |     |   __|  |  |  |  | 
-|  |  |  |  /  _____  \   |  |        |  |     |  |____ |  `--'  | 
-|__|  |__| /__/     \__\  |__|        |__|     |_______| \______/  
+![https://res.cloudinary.com/mhdev/image/upload/c_scale,f_auto,q_auto,w_826/v1547330781/blog/defaultImages/covers/5.jpg](https://res.cloudinary.com/mhdev/image/upload/c_scale,f_auto,q_auto,w_826/v1547330781/blog/defaultImages/covers/5.jpg)
